@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AI Digital Product Starter Pack</title>
+<style>
+body{
+font-family:Arial,sans-serif;
+background:#f4f4f4;
+margin:0;
+padding:0;
+color:#222;
+}
+.container{
+max-width:800px;
+margin:40px auto;
+background:#fff;
+padding:30px;
+border-radius:10px;
+box-shadow:0 0 10px rgba(0,0,0,0.1);
+}
+h1{
+font-size:36px;
+margin-bottom:10px;
+}
+h2{
+color:#444;
+}
+ul{
+line-height:1.8;
+}
+.buy-btn{
+display:inline-block;
+background:#0a7cff;
+color:#fff;
+padding:15px 30px;
+font-size:22px;
+text-decoration:none;
+border-radius:8px;
+margin-top:20px;
+font-weight:bold;
+}
+.notice{
+margin-top:30px;
+padding:15px;
+background:#f0f0f0;
+border-radius:8px;
+font-size:14px;
+line-height:1.6;
+}
+.footer{
+margin-top:40px;
+font-size:13px;
+color:#666;
+}
+</style>
+</head>
+<body>
+
+<div class="container">
+
+<h1>AI Digital Product Starter Pack</h1>
+
+<h2>Beginner-Friendly AI Prompt Guide</h2>
+
+<p>
+Simple prompts and ideas to help beginners create:
+</p>
+
+<ul>
+<li>Digital products</li>
+<li>PDF guides</li>
+<li>Canva content</li>
+<li>TikTok and short video ideas</li>
+<li>Simple online services</li>
+<li>Prompt packs and templates</li>
+</ul>
+
+<p>
+Includes beginner-friendly examples, prompts, and simple step-by-step ideas.
+</p>
+
+<a class="buy-btn" href="https://www.digistore24.com/product/690895">
+BUY NOW - $17
+</a>
+
+<div class="notice">
+<b>Delivery:</b> This is a digital product delivered online after purchase.<br><br>
+
+<b>Billing notice:</b> The withdrawal from your account will be done by Digistore24.
+</div>
+
+<div class="footer">
+<h3>Legal Information</h3>
+
+Name: Ed Brown<br>
+Email: yeypaid@gmail.com<br><br>
+
+This product is for educational purposes only.<br>
+No income or results are guaranteed.
+</div>
+
+</div>
+
+</body>
+</html>
